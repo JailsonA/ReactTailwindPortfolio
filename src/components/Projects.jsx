@@ -5,7 +5,6 @@ import ImgProj1 from "../assets/1.jpg";
 import ImgProj2 from "../assets/2.jpg";
 import ImgProj3 from "../assets/4.jpg";
 import ImgProj4 from "../assets/5.jpg";
-import ImgProj5 from "../assets/5.png";
 
 const Projects = () => {
   return (
