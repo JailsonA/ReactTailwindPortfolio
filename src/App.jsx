@@ -3,6 +3,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Main from './components/Main'
 import Projects from './components/Projects'
+import Resume from './components/Resume'
 import Sidenav from './components/Sidenav'
 import Work from './components/Work'
 
@@ -12,6 +13,7 @@ function App() {
     <div>
       <Sidenav/>
       <Main/>
+      <Resume/>
       <Work/>
       <Projects/>
       <Contact/>

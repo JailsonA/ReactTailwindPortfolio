@@ -2,7 +2,7 @@
 
 > React Portfolio made with HTML, Tailwind CSS & components React.
 
-<!-- ![preview](public/dist/img/demo1.png) -->
+![preview](src/assets/hero.png)
 
 | [Covered Content](https://github.com/JailsonA/) |
 | ----------------------------------------------- |
@@ -17,7 +17,7 @@
 | ✓ Contact Form                                  |
 | ✓                                               |
 
-<!-- ![preview](public/dist/img/demo2.png) -->
+![preview](src/assets/projects.png)
 
 ## Getting started
 
@@ -28,6 +28,13 @@
 - install NPM react-typed: `npm install --save react-type-animation`
 - Start the project: `npm run start` / `yarn start`
 - Config your getform.io: `https://app.getform.io` / just past your action URL
+
+## Mobile prtscreen
+
+![preview](src/assets/menuResp.png)
+
+![preview](src/assets/projectsResp.png)
+
 
 ## Contact
 
