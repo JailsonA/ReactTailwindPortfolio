@@ -14,7 +14,7 @@
 | ✓ React-icons                                   |
 | ✓ React-Typed                                   |
 | ✓ useState                                      |
-| ✓                                               |
+| ✓ Contact Form                                  |
 | ✓                                               |
 
 <!-- ![preview](public/dist/img/demo2.png) -->
@@ -27,6 +27,7 @@
 - Install Tailwind: `npm install -D tailwindcss postcss autoprefixer` & `npx tailwindcss init -p`
 - install NPM react-typed: `npm install --save react-type-animation`
 - Start the project: `npm run start` / `yarn start`
+- Config your getform.io: `https://app.getform.io` / just past your action URL
 
 ## Contact
 
